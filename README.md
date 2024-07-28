@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-### 👨‍⚕️ About Me :
+### :👨‍💼 About Me :
 
 - :rocket: I'm passionate about building software applications.
 - :briefcase:  I'm comfortable combining technical expertise with business insights.
@@ -29,12 +29,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/leaflet.png" title="Leaflet" alt="Leaflet" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mapbox/mapbox-original.svg" title="MapBox" alt="MapBox" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openlayers/openlayers-original.svg" title="OpenLayers" alt="OpenLayers" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" title="JavaFX" alt="JavaFX" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cockroachdb/cockroachdb-original.svg" title="CockroachDB" alt="CockroachDB" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula&hide=Jupyter%20Notebook,JavaScript)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
 
-</div>
+### :bulb: Fun Facts :
+- :man_technologist: I enjoy exploring new technologies and frameworks.
+- :earth_africa: I love contributing to open-source projects and collaborating with developers worldwide.
+- :book: I'm an avid reader and enjoy keeping up with the latest trends in software development.
+
+### :chart_with_upwards_trend: Projects and Contributions :
+- :rocket: **Enterprise Planning Solution:** Developed a comprehensive planning solution with robust features and user-friendly interfaces.
+- :earth_africa: **SEPAL:** Contributed to a project that aids in well, reservoir, and facility management.
+- :computer: **PPTA & PIA Cashflow Service:** Developed a service to support financial summaries and computations, integrating various formulas for specific calculations.
+
+### :trophy: Achievements :
+- :medal_sports: Successfully managed a team of engineers, enhancing their productivity and code quality.
+- :chart_with_upwards_trend: Led efforts in managing data persistence and optimizing read operations in high-performance databases.
+- :white_check_mark: Consistently delivered high-quality software solutions that meet business needs and exceed client expectations.
+
+### :handshake: Connect with Me :
+- :email: [Email](mailto:alapherwori8g5.com)
+- :link: [LinkedIn](https://www.linkedin.com/in/hearty-alapher)
+- :bird: [Twitter](https://twitter.com/worihearty)
+
+
