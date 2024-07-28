@@ -29,8 +29,8 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanarfc&theme=highcontrast)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joanarfc&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
 
 </div>
