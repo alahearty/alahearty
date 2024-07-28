@@ -33,6 +33,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula&hide=Jupyter%20Notebook,JavaScript)
 
 </div>
