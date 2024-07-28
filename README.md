@@ -29,9 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/leaflet.png" title="Leaflet" alt="Leaflet" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mapbox/mapbox-original.svg" title="MapBox" alt="MapBox" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
