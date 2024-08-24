@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-### :👨‍💼 About Me :
+### :👨‍💼 About Me 
 
 - :rocket: I'm passionate about building software applications.
 - :briefcase:  I'm comfortable combining technical expertise with business insights.
