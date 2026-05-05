@@ -15,6 +15,12 @@
 
 ---
 
+## 🔥 My Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
+
+---
+
 ## 🛠️ Languages & Tools
 
 ### 🔷 .NET Ecosystem
@@ -70,11 +76,6 @@ Git &nbsp;|&nbsp; Azure
 
 ---
 
-## 🔥 My Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
-
----
 
 ## 💡 Fun Facts
 - 👨‍💻 I enjoy exploring new technologies and frameworks  
