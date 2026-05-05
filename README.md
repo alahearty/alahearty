@@ -23,32 +23,28 @@
 
 ## 🛠️ Languages & Tools
 
-### 🔷 .NET Ecosystem
-C# &nbsp;|&nbsp; .NET Core &nbsp;|&nbsp; ASP.NET &nbsp;|&nbsp; WPF  
-
+### 🔷 .NET Ecosystem  
+C# | .NET Core | ASP.NET | WPF  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/> 
 
 ---
 
-### ☕ Java Ecosystem
-Java &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; JSPs  
-
+### ☕ Java Ecosystem  
+Java | Spring Boot | JSPs  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
 
 ---
 
-### 🐍 Python Ecosystem
-Python &nbsp;|&nbsp; Flask  
-
+### 🐍 Python Ecosystem  
+Python | Flask  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40"/> 
 
 ---
 
-### 🌐 Web Development
-HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; Vue.js  
-
+### 🌐 Web Development  
+HTML5 | CSS3 | JavaScript | TypeScript | Vue.js  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
@@ -57,9 +53,8 @@ HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp
 
 ---
 
-### 🗄️ Databases
-MS SQL Server &nbsp;|&nbsp; SQLite &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Snowflake  
-
+### 🗄️ Databases  
+MS SQL Server | SQLite | PostgreSQL | Snowflake  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> 
@@ -67,12 +62,10 @@ MS SQL Server &nbsp;|&nbsp; SQLite &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Snowfl
 
 ---
 
-### ⚙️ Tools & Platforms
-Git &nbsp;|&nbsp; Azure  
-
+### ⚙️ Tools & Platforms  
+Git | Azure  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> 
-
 
 ---
 
