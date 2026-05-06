@@ -7,9 +7,9 @@
 </div>
 
 ## 👨‍💼 About Me
-- 🚀 Passionate about building software applications  
+- 🚀 Passionate about building software applications
+- 🌱 Committed to continuous learning and self-improvement   
 - 💼 Skilled at combining technical expertise with business insights  
-- 🌱 Committed to continuous learning and self-improvement  
 ---
 
 ## 🔥 My Stats
